@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "317830961166",
+    "project_id": "login-a3bab",
+    "storage_bucket": "login-a3bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317830961166:android:9eaa9a5222f9d2c04d845f",
+        "android_client_info": {
+          "package_name": "com.example.hassan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317830961166-qjieqillekvn0j3q9lhn762bk903i29m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hassan",
+            "certificate_hash": "e25e98c5def680f5cc1311561756ed323fc9559a"
+          }
+        },
+        {
+          "client_id": "317830961166-bca7sp2nna2e96g9aus3jm053tfaf2ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkAIhQ7h1t3gass8oy7NAjFz_V9yWrak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317830961166-bca7sp2nna2e96g9aus3jm053tfaf2ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
